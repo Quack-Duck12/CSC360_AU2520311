@@ -14,7 +14,7 @@ class SimpleJava2DLines extends Frame {
 
     public void paint(Graphics g) {
 
-        g.drawRect(100, 100, 700, 500);
+        g.drawRect(100, 100, 250, 250);
     }
 
     public static void main(String[] argv) {
