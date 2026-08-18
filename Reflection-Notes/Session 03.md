@@ -24,11 +24,10 @@ MyJavaProject/
 ├── .gitignore
 ├── README.md
 ├── src/
-│   └── main/
-│       └── java/
-│           └── Main.java
-└── src/
-    └── test/
+│   ├── main/
+│   │    └── java/
+│   │       └── Main.java
+	└── test/
         └── java/
             └── MainTest.java
 ```
