@@ -18,3 +18,18 @@ Then the abstracted steps that are performed by the function are:
 	   drawLine(BottomRight, BottomLeft)
 This resulting pseudo-code will result in the drawing of a square within the canvas screen.
 
+Explained a basic outline for a Java programming project & how this repo should potentially look:
+```
+MyJavaProject/
+├── .gitignore
+├── README.md
+├── src/
+│   └── main/
+│       └── java/
+│           └── Main.java
+└── src/
+    └── test/
+        └── java/
+            └── MainTest.java
+```
+
