@@ -1,1 +1,11 @@
 Questions.md
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled output
+out/
+*.class
+
+.obsidian
