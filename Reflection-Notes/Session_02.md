@@ -1,3 +1,4 @@
+# Session 02
 #13-08-2026
 
 1. Installing Java JDK & maven (basics)

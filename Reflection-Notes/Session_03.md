@@ -1,4 +1,5 @@
-# Session 03
+# Session 03 
+#18-08-26
 
 Covered the basics of how to draw a square by discussing about the required arguments that need to be passed into a ```drawSquare()``` function
 1. **position/starting coordinate (Vector2)**: the x position & y position to start drawing, taken as the center of the square in this situation
