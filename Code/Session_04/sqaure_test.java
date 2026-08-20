@@ -1,3 +1,5 @@
+// Code to draw a Square that is being explained by Proff. (Session 04)
+
 package Session_04;
 import javax.swing.JFrame;
 import java.awt.Graphics;
